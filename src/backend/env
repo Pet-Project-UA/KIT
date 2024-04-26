@@ -1,0 +1,2 @@
+MONGO_URI=mongodb://mongodb:27017/mydatabase
+SOME_OTHER_BACKEND_ENV=your_value
